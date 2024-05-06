@@ -4,7 +4,7 @@ The dashboard is created in Tableau serve to enhance data-driven decision-making
 
 ## Dashboards
 ### Dashboard 1: Summary
-![SUMMARY](https://github.com/impvn/Bank-Loan-KPIs-Dashboard/assets/98079170/520eed88-099d-429c-b3fb-5ec8fa9021d8)
+![SUMMARY](https://github.com/impvn/BANK-LOAN-DATA-EDA-KPIs-Dashboard/assets/98079170/b6b169cd-e751-4dea-8edf-4d8f83ec3937)
 
 The Summary Dashboard captures key loan-related metrics and their changes over time, providing a snapshot of the loan portfolio's health and lending strategy impact. It includes the following KPIs:
 
