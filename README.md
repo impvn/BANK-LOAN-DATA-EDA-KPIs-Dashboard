@@ -17,7 +17,8 @@ The Summary Dashboard captures key loan-related metrics and their changes over t
 Additionally, it distinguishes between 'Good Loans' and 'Bad Loans,' with specific indicators for each category, helping in the assessment of loan portfolio quality.
 
 ### Dashboard 2: Overview
-![OVERVIEW](https://github.com/impvn/Bank-Loan-KPIs-Dashboard/assets/98079170/c969880a-896b-48d3-8e12-0285870ce5ec)
+![OVERVIEW](https://github.com/impvn/BANK-LOAN-DATA-EDA-KPIs-Dashboard/assets/98079170/e01ab04d-4a6a-4f88-87cc-52c895c08969)
+
 
 The Overview Dashboard visually represents various loan-related metrics through different chart types:
 
@@ -31,7 +32,7 @@ The Overview Dashboard visually represents various loan-related metrics through 
 These visualizations aid in identifying trends, seasonal patterns, and the distribution of loans across various categories.
 
 ### Dashboard 3: Details
-![DETAILS](https://github.com/impvn/Bank-Loan-KPIs-Dashboard/assets/98079170/ceaab52e-f606-49bc-a5bb-231defe23f9c)
+![DETAILS](https://github.com/impvn/BANK-LOAN-DATA-EDA-KPIs-Dashboard/assets/98079170/a2eecf79-e6d3-4388-9655-fdfc6294659d)
 
 The Details Dashboard offers a detailed view of the loan data, providing a comprehensive and user-friendly interface for accessing vital loan metrics, borrower profiles, and performance data.
 
